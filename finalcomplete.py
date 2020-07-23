@@ -118,10 +118,3 @@ plt.title('Classification Algorithm')
 plt.savefig('report.png')
 plt.show()
 
-
-# In[15]:
-
-
-li = [10 , 11 , 5]
-li.index(max(li))
-
